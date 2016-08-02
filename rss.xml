@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Web Midi Zone]]></title>
         <description><![CDATA[Web Midi Zone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/web-midi-zone/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 21:55:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 22:04:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/web-midi-zone/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.audiotool.com/</p>]]></description>
+            <link>https://thegrid.ai/web-midi-zone/httpswwwaudiotoolcom/index.html</link>
+            <guid isPermaLink="false">29e1e01b-9ca8-4a53-90e6-3bb328e62a08</guid>
+            <pubDate>Tue, 02 Aug 2016 22:04:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://patternsketch.com/</p>]]></description>
-            <link>undefinedhttppatternsketchcom/index.html</link>
+            <link>https://thegrid.ai/web-midi-zone/httppatternsketchcom/index.html</link>
             <guid isPermaLink="false">34461c62-e983-4ff3-9608-1412874453da</guid>
             <pubDate>Tue, 02 Aug 2016 21:55:38 GMT</pubDate>
         </item>
